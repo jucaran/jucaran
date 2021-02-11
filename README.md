@@ -27,6 +27,9 @@ https://jucaran.github.io/
 - 📫 Let's get in touch:
 juan.castro.arancibia@gmail.com 
 
+### Some previews of my work:
+<img src="./alterra_preview.png" alt="Alterra preview" width="200"/>
+
 #### Español
 ### Hola 👋
 
