@@ -1,5 +1,5 @@
 #### English
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **jucaran/jucaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,10 +28,12 @@ https://jucaran.github.io/
 juan.castro.arancibia@gmail.com 
 
 ### Some previews of my work:
-<img src="./alterra_preview.png" alt="Alterra preview" width="200"/>
+<a href="https://github.com/jucaran/alterra"><img src="./alterra_preview.png" alt="Alterra preview" height="150"/></a>
+<a href="https://github.com/jucaran/pampa-del-rio"><img src="./pampa_preview.png" alt="Pampas del Rio preview" height="150"/></a>
+<a href="https://github.com/jucaran/dubsnip-store"><img src="./dubsnip_preview.png" alt="Dubsnip preview" height="150"/></a>
 
 #### Español
-### Hola 👋
+## Hola 👋
 
 #### Hola! Mi nombre es Juan, soy desarrollador fullstack en javascript. Me considero una persona sumamente creativa y analítica al mismo tiempo.
 
@@ -45,4 +47,7 @@ https://jucaran.github.io/
 juan.castro.arancibia@gmail.com
 
 
-
+### Algo de mi trabajo:
+<a href="https://github.com/jucaran/alterra"><img src="./alterra_preview.png" alt="Alterra preview" height="150"/></a>
+<a href="https://github.com/jucaran/pampa-del-rio"><img src="./pampa_preview.png" alt="Pampas del Rio preview" height="150"/></a>
+<a href="https://github.com/jucaran/dubsnip-store"><img src="./dubsnip_preview.png" alt="Dubsnip preview" height="150"/></a>
